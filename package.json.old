@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "saciapp",
   "version": "1.0.0",
   "main": "src/api/server.ts",

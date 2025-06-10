@@ -23,13 +23,13 @@ Create a new repository named 'SaciApp' on the chosen platform. Ensure it is set
 ### Details:
 Initialize the repository with a README.md file containing project overview and a .gitignore file tailored for Node.js and React Native projects.
 
-## 3. Set Up Project Directory Structure [in-progress]
+## 3. Set Up Project Directory Structure [done]
 ### Dependencies: 1.2
 ### Description: Create the basic directory structure for the project.
 ### Details:
 Create directories such as /src for source code, /docs for documentation, /tests for test files, and any other necessary folders like /assets or /config.
 
-## 4. Initialize Node.js Backend [pending]
+## 4. Initialize Node.js Backend [in-progress]
 ### Dependencies: 1.3
 ### Description: Set up the Node.js backend environment.
 ### Details:

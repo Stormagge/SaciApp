@@ -38,7 +38,7 @@
             2
           ],
           "details": "Create directories such as /src for source code, /docs for documentation, /tests for test files, and any other necessary folders like /assets or /config.",
-          "status": "in-progress",
+          "status": "done",
           "testStrategy": "Verify the directory structure by listing the folders in the repository."
         },
         {
@@ -49,7 +49,7 @@
             3
           ],
           "details": "Run 'npm init' to create a package.json file. Install essential dependencies like Express.js, MongoDB driver, and any other required packages.",
-          "status": "pending",
+          "status": "in-progress",
           "testStrategy": "Check the package.json file and node_modules directory for correct initialization and dependencies."
         },
         {
