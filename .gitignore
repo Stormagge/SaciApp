@@ -1,29 +1,38 @@
-# Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-dev-debug.log
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
-# Dependency directories
+# dependencies
 node_modules/
 
-# Environment variables
-.env
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
 
-# Editor directories and files
-.idea
-.vscode
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+# Native
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
 
-# OS specific
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
 .DS_Store
+*.pem
 
-# Task files
-tasks.json
-tasks/ 
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
+
+app-example

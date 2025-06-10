@@ -1,0 +1,11 @@
+# Task ID: 16
+# Title: Develop Freemium Features
+# Status: pending
+# Dependencies: 3, 8
+# Priority: medium
+# Description: Implement basic and premium feature sets.
+# Details:
+Use Firebase for subscription management. Limit free users to 3 substitutions/day.
+
+# Test Strategy:
+Test feature restrictions and premium unlocks.

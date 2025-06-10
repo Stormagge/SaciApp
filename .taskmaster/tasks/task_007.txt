@@ -1,0 +1,11 @@
+# Task ID: 7
+# Title: Implement Substitution Algorithm
+# Status: pending
+# Dependencies: 2, 6
+# Priority: high
+# Description: Develop the core algorithm for food substitutions.
+# Details:
+Use Python or Node.js to create an algorithm that prioritizes low-calorie, high-fiber foods based on user preferences.
+
+# Test Strategy:
+Test with mock user data and validate substitution logic.

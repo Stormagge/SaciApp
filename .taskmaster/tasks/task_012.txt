@@ -1,0 +1,11 @@
+# Task ID: 12
+# Title: Develop Gamification System
+# Status: pending
+# Dependencies: 3
+# Priority: low
+# Description: Add challenges and achievements to boost engagement.
+# Details:
+Implement a points system for consistency and achievements. Use Firebase for real-time updates.
+
+# Test Strategy:
+Test achievement triggers and point calculations.

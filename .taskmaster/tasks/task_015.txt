@@ -1,0 +1,11 @@
+# Task ID: 15
+# Title: Set Up Backup System
+# Status: pending
+# Dependencies: 2, 14
+# Priority: medium
+# Description: Implement automated backups for user data.
+# Details:
+Use AWS S3 or similar for daily backups. Test restore procedures.
+
+# Test Strategy:
+Verify backup creation and restoration.

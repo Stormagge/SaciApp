@@ -1,0 +1,11 @@
+# Task ID: 3
+# Title: Implement User Authentication
+# Status: pending
+# Dependencies: 1
+# Priority: high
+# Description: Set up secure user authentication and authorization.
+# Details:
+Use Firebase Authentication for simplicity and security. Implement email/password and OAuth (Google, Apple) login. Store user data in PostgreSQL.
+
+# Test Strategy:
+Test login/logout flows and verify JWT token generation.

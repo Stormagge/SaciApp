@@ -1,0 +1,11 @@
+# Task ID: 2
+# Title: Define Database Schema
+# Status: pending
+# Dependencies: 1
+# Priority: high
+# Description: Design the database schema for user data and nutritional information.
+# Details:
+Use PostgreSQL for scalability. Define tables for users (biometric data, preferences), food items (nutritional data), and meal plans. Include relationships and indexes for performance.
+
+# Test Strategy:
+Validate schema with sample queries and ensure data integrity.

@@ -1,0 +1,11 @@
+# Task ID: 5
+# Title: Build Food Preference Mapping UI
+# Status: pending
+# Dependencies: 1, 3
+# Priority: medium
+# Description: Develop an interface for users to classify food preferences.
+# Details:
+Implement a drag-and-drop or rating system for food preferences (Amo/Aceito/Odeio). Store preferences in the database.
+
+# Test Strategy:
+Test preference submission and retrieval.

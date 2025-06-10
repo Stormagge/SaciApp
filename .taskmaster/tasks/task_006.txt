@@ -1,0 +1,11 @@
+# Task ID: 6
+# Title: Create Nutritional Database
+# Status: pending
+# Dependencies: 2
+# Priority: high
+# Description: Populate the database with nutritional data for common foods.
+# Details:
+Use USDA FoodData Central API or similar to seed the database with 50+ food items. Include calories, macros, and fiber content.
+
+# Test Strategy:
+Verify data accuracy and completeness with sample queries.

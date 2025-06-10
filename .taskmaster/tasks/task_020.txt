@@ -1,0 +1,11 @@
+# Task ID: 20
+# Title: Prepare for Public Launch
+# Status: pending
+# Dependencies: 18, 19
+# Priority: high
+# Description: Finalize app for public release.
+# Details:
+Submit to App Store and Google Play. Prepare marketing materials.
+
+# Test Strategy:
+Verify app store submissions and initial user onboarding.

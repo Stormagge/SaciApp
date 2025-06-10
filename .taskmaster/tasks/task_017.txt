@@ -1,0 +1,11 @@
+# Task ID: 17
+# Title: Integrate Supermarket APIs
+# Status: pending
+# Dependencies: 6
+# Priority: low
+# Description: Connect with grocery delivery services.
+# Details:
+Use Instacart or similar APIs for automated shopping lists.
+
+# Test Strategy:
+Test API integration and list generation.

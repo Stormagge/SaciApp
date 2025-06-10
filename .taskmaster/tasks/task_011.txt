@@ -1,0 +1,11 @@
+# Task ID: 11
+# Title: Integrate Wearable APIs
+# Status: pending
+# Dependencies: 3
+# Priority: low
+# Description: Connect the app with wearable devices for activity tracking.
+# Details:
+Use Google Fit and Apple HealthKit APIs to sync activity data. Store and display in the app.
+
+# Test Strategy:
+Test data sync and display in the UI.

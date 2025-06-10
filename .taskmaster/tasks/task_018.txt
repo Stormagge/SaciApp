@@ -1,0 +1,11 @@
+# Task ID: 18
+# Title: Conduct Beta Testing
+# Status: pending
+# Dependencies: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17
+# Priority: high
+# Description: Run tests with a small user group.
+# Details:
+Recruit beta testers via TestFlight (iOS) and Google Play Beta (Android). Collect feedback via surveys.
+
+# Test Strategy:
+Analyze feedback and identify bugs.

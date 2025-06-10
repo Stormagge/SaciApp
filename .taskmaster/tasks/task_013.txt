@@ -1,0 +1,11 @@
+# Task ID: 13
+# Title: Build Social Features
+# Status: pending
+# Dependencies: 3
+# Priority: low
+# Description: Add forums and sharing capabilities.
+# Details:
+Use Firebase Firestore for real-time chat and forums. Implement sharing for meal plans and substitutions.
+
+# Test Strategy:
+Test forum posts and sharing functionality.

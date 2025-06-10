@@ -1,0 +1,11 @@
+# Task ID: 9
+# Title: Design Drag-and-Drop Meal Editor
+# Status: pending
+# Dependencies: 1, 4, 5
+# Priority: medium
+# Description: Create an interactive UI for meal editing.
+# Details:
+Use React Native libraries like react-native-draggable-flatlist for drag-and-drop functionality. Visualize portion sizes and substitutions.
+
+# Test Strategy:
+Test drag-and-drop interactions and meal plan updates.
