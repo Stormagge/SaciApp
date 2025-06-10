@@ -17,13 +17,13 @@ Verify repository setup by cloning and running basic commands (e.g., npm install
 ### Details:
 Create a new repository named 'SaciApp' on the chosen platform. Ensure it is set to private or public as per project requirements.
 
-## 2. Initialize Repository with Basic Files [in-progress]
+## 2. Initialize Repository with Basic Files [done]
 ### Dependencies: 1.1
 ### Description: Add essential files like README.md and .gitignore to the repository.
 ### Details:
 Initialize the repository with a README.md file containing project overview and a .gitignore file tailored for Node.js and React Native projects.
 
-## 3. Set Up Project Directory Structure [pending]
+## 3. Set Up Project Directory Structure [in-progress]
 ### Dependencies: 1.2
 ### Description: Create the basic directory structure for the project.
 ### Details:

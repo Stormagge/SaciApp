@@ -27,7 +27,7 @@
             1
           ],
           "details": "Initialize the repository with a README.md file containing project overview and a .gitignore file tailored for Node.js and React Native projects.",
-          "status": "in-progress",
+          "status": "done",
           "testStrategy": "Check the presence and content of README.md and .gitignore files in the repository."
         },
         {
@@ -38,7 +38,7 @@
             2
           ],
           "details": "Create directories such as /src for source code, /docs for documentation, /tests for test files, and any other necessary folders like /assets or /config.",
-          "status": "pending",
+          "status": "in-progress",
           "testStrategy": "Verify the directory structure by listing the folders in the repository."
         },
         {
