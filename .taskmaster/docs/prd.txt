@@ -1,0 +1,154 @@
+# SaciApp - PRD (Product Requirements Document)
+
+## Visão Geral do Produto
+SaciApp é um aplicativo de dieta inteligente que foca em maximizar a saciedade enquanto reduz calorias, usando um sistema único de substituições personalizadas e educação nutricional.
+
+## Objetivos do Produto
+- Criar uma experiência positiva e não-restritiva para dietas
+- Personalizar planos alimentares baseados nas preferências do usuário
+- Educar usuários sobre nutrição através de substituições inteligentes
+- Maximizar a saciedade com menor consumo calórico
+- Promover mudanças sustentáveis nos hábitos alimentares
+
+## Funcionalidades Principais
+
+### 1. Sistema de Entrada de Dados
+#### Dados Biométricos
+- Idade
+- Peso
+- Altura
+- Percentual de gordura
+- Objetivos (perda de peso, ganho muscular, manutenção)
+- Restrições alimentares (alergias, condições médicas)
+- Preferências dietéticas (vegetariano, vegano, etc.)
+
+#### Mapa de Preferências
+- Classificação de alimentos (Amo/Aceito/Odeio)
+- Alimentos desejados
+- Nível de experiência culinária
+- Restrições de tempo para preparo
+
+### 2. Motor de Substituições Inteligentes
+#### Banco de Dados Nutricional
+- Equivalentes nutricionais para alimentos comuns
+- Sistema de pontuação baseado em preferências
+- Fórmula de saciedade (densidade calórica vs fibras)
+
+#### Algoritmo de Personalização
+- Manutenção de 80% dos alimentos preferidos
+- Introdução gradual de 20% de novos alimentos
+- Priorização de alimentos com baixa densidade calórica
+
+### 3. Gerador de Planos Alimentares
+#### Níveis de Adaptação
+- Conservador (90% preferências atuais)
+- Balanceado (70% preferências / 30% novos)
+- Ousado (foco máximo em saciedade)
+
+#### Recursos de Planejamento
+- Cálculo automático de porções
+- Sugestões de volume com baixa caloria
+- Planos de refeição semanais
+- Lista de compras automatizada
+
+### 4. Interface do Usuário
+#### Editor de Refeições
+- Interface drag-and-drop
+- Visualização de porções
+- Simulador de substituições
+- Comparativo calórico visual
+
+#### Recursos de Emergência
+- Botão "Sinto Fome"
+- Sugestões de lanches rápidos
+- Alternativas de baixa caloria
+
+### 5. Sistema de Engajamento
+#### Gamificação
+- Desafios semanais
+- Sistema de conquistas
+- Pontuação por consistência
+
+#### Feedback e Monitoramento
+- Avaliação de saciedade pós-refeição
+- Tracking de progresso
+- Ajustes automáticos baseados em feedback
+
+#### Componente Social
+- Compartilhamento de substituições
+- Fórum de usuários
+- Histórias de sucesso
+
+## Requisitos Técnicos
+
+### Integração com Dispositivos
+- APIs para wearables
+- Sincronização com apps de atividade física
+- Suporte a múltiplas plataformas (iOS/Android)
+
+### Backend
+- Banco de dados escalável
+- Sistema de IA para recomendações
+- API RESTful
+- Processamento em tempo real
+
+### Segurança
+- Criptografia de dados pessoais
+- Conformidade com LGPD
+- Autenticação segura
+- Backup automático
+
+## Modelo de Monetização
+
+### Plano Freemium
+#### Recursos Gratuitos
+- Geração básica de dieta
+- 3 substituições diárias
+- Calculadora de calorias
+- Recursos básicos de tracking
+
+#### Recursos Premium
+- Substituições ilimitadas
+- Nutricionista virtual
+- Receitas exclusivas
+- Lista de compras automática
+- Análises avançadas
+
+### Parcerias Comerciais
+- Integração com supermercados
+- Serviços de delivery
+- Produtos alimentícios recomendados
+
+## MVP (Minimum Viable Product)
+
+### Fase 1: Desenvolvimento Base
+- Interface básica de entrada de dados
+- Banco de dados com 50 alimentos principais
+- Sistema básico de substituições
+- Cálculo de TDEE
+
+### Fase 2: Testes e Validação
+- Testes com grupo beta
+- Coleta de feedback
+- Ajustes no algoritmo
+- Validação com nutricionistas
+
+### Fase 3: Lançamento Inicial
+- Lançamento do app básico
+- Implementação de feedback inicial
+- Monitoramento de métricas
+- Ajustes de performance
+
+## Métricas de Sucesso
+- Taxa de retenção de usuários
+- Satisfação com substituições
+- Progresso em direção aos objetivos
+- Engajamento com o app
+- Conversão para premium
+
+## Timeline do Projeto
+- Mês 1-2: Desenvolvimento do MVP
+- Mês 3: Testes Beta
+- Mês 4: Ajustes e Correções
+- Mês 5: Lançamento Público
+- Mês 6+: Iterações baseadas em feedback
